@@ -1,6 +1,12 @@
 # searchbox
 
- [Screenshot (30)](https://user-images.githubusercontent.com/129665472/232783369-9ecb017b-44cf-46e6-81f7-455ed8c314e0.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/1296654
+
+https://user-images.githubusercontent.com/129665472/233842991-37beeca2-e1f7-4edd-a1cb-bd3f01c87703.mp4
+
+72/233842846-cefcdcb0-e0ed-42e3-8a08-481d56a5594d.png)
+
+
  
 if you want to optimize your search box for more traffic and better search engine visibility, here are some tips for incorporating relevant keywords:
 
