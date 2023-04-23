@@ -1,13 +1,11 @@
 # searchbox
-
-![Screenshot (30)](https://user-images.githubusercontent.com/1296654
-
-https://user-images.githubusercontent.com/129665472/233842991-37beeca2-e1f7-4edd-a1cb-bd3f01c87703.mp4
-
-72/233842846-cefcdcb0-e0ed-42e3-8a08-481d56a5594d.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/129665472/233843093-bb78843d-1322-4b6e-9463-12b007245d74.png)
 
 
- 
+
+https://user-images.githubusercontent.com/129665472/233843047-7d4fdff2-2d40-4d45-892e-2154b13312d8.mp4
+
+
 if you want to optimize your search box for more traffic and better search engine visibility, here are some tips for incorporating relevant keywords:
 
 Use descriptive labels and placeholders for your search box. Instead of using generic labels like "search" or "find," use specific keywords that describe the content on your website. For example, if you have a blog about gardening, you might use "Search for gardening tips" as your label or "Find articles about gardening" as your placeholder text.
